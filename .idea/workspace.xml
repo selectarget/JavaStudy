@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="112e2029-f273-4186-a6d9-d58da8ae0e3a" name="变更" comment="" />
+    <list default="true" id="112e2029-f273-4186-a6d9-d58da8ae0e3a" name="变更" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,29 +32,43 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="2" id="Remove" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "project.structure.last.edited": "模块",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   },
-  "keyToStringList": {
-    "GitStage.ChangesTree.GroupingKeys": [
-      "directory",
-      "module",
-      "repository"
+  &quot;keyToStringList&quot;: {
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
     ]
   }
-}]]></component>
-  <component name="RunManager" selected="应用程序.chatRoom">
+}</component>
+  <component name="RunManager" selected="应用程序.StarLinkLogin">
+    <configuration name="StarLinkLogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exp.icu.StarLinkLogin" />
+      <module name="JavaStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.exp.icu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="chatRoom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.exp.icu.chatRoom" />
       <module name="JavaStudy" />
@@ -81,6 +97,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.StarLinkLogin" />
         <item itemvalue="应用程序.chatRoom" />
         <item itemvalue="应用程序.guessNumber" />
       </list>
@@ -94,7 +111,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657638024526</updated>
-      <workItem from="1657638026905" duration="1832000" />
+      <workItem from="1657638026905" duration="2525000" />
+      <workItem from="1657640607291" duration="612000" />
+      <workItem from="1657642608790" duration="125000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1657638329373</created>
@@ -117,7 +136,35 @@
       <option name="project" value="LOCAL" />
       <updated>1657638613050</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="猜数字gui 小游戏">
+      <created>1657639977140</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657639977140</updated>
+    </task>
+    <task id="LOCAL-00005" summary="聊天室">
+      <created>1657640262484</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1657640262484</updated>
+    </task>
+    <task id="LOCAL-00006" summary="登陆界面练习">
+      <created>1657640484311</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1657640484311</updated>
+    </task>
+    <task id="LOCAL-00007" summary="登陆界面练习">
+      <created>1657640529634</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1657640529634</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,6 +185,10 @@
     <MESSAGE value="初始化" />
     <MESSAGE value="添加事件" />
     <MESSAGE value="修改错误" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改错误" />
+    <MESSAGE value="猜数字gui 小游戏" />
+    <MESSAGE value="聊天室练习" />
+    <MESSAGE value="聊天室" />
+    <MESSAGE value="登陆界面练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="登陆界面练习" />
   </component>
 </project>
