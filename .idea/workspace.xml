@@ -50,9 +50,9 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="应用程序.ArryDemo">
-    <configuration name="ArryDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.exp.icu.ArryDemo" />
+  <component name="RunManager" selected="应用程序.ArrayTest">
+    <configuration name="ArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exp.icu.ArrayDemo" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
@@ -64,7 +64,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.exp.icu.StarLinkLogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exp.icu.ArrayTest" />
+      <module name="JavaStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.exp.icu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StarLinkLogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.exp.icu.StarLinkLogin" />
       <module name="JavaStudy" />
       <extension name="coverage">
@@ -77,7 +90,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.exp.icu.chatRoom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="chatRoom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.exp.icu.chatRoom" />
       <module name="JavaStudy" />
       <extension name="coverage">
@@ -90,7 +103,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.exp.icu.guessNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="guessNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.exp.icu.guessNumber" />
       <module name="JavaStudy" />
       <extension name="coverage">
@@ -105,7 +118,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.ArryDemo" />
+        <item itemvalue="应用程序.ArrayTest" />
+        <item itemvalue="应用程序.com.exp.icu.ArrayDemo" />
         <item itemvalue="应用程序.com.exp.icu.StarLinkLogin" />
         <item itemvalue="应用程序.com.exp.icu.chatRoom" />
         <item itemvalue="应用程序.com.exp.icu.guessNumber" />
@@ -124,7 +138,7 @@
       <workItem from="1657640607291" duration="612000" />
       <workItem from="1657642608790" duration="125000" />
       <workItem from="1657650783727" duration="504000" />
-      <workItem from="1657738035193" duration="2202000" />
+      <workItem from="1657738035193" duration="3713000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1657638329373</created>
@@ -196,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657739840191</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="数组 优化">
+      <created>1657740523202</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1657740523202</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
