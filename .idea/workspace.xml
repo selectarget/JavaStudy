@@ -17,6 +17,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -50,9 +51,22 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="应用程序.ArrayTest">
+  <component name="RunManager" selected="应用程序.ArrayDemo1">
     <configuration name="ArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.exp.icu.ArrayDemo" />
+      <module name="JavaStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.exp.icu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exp.icu.ArrayDemo1" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
@@ -103,26 +117,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="guessNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.exp.icu.guessNumber" />
-      <module name="JavaStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.exp.icu.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.ArrayDemo1" />
         <item itemvalue="应用程序.ArrayTest" />
         <item itemvalue="应用程序.com.exp.icu.ArrayDemo" />
         <item itemvalue="应用程序.com.exp.icu.StarLinkLogin" />
         <item itemvalue="应用程序.com.exp.icu.chatRoom" />
-        <item itemvalue="应用程序.com.exp.icu.guessNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +139,7 @@
       <workItem from="1657640607291" duration="612000" />
       <workItem from="1657642608790" duration="125000" />
       <workItem from="1657650783727" duration="504000" />
-      <workItem from="1657738035193" duration="3713000" />
+      <workItem from="1657738035193" duration="4751000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1657638329373</created>
@@ -217,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657740523202</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="二维数组">
+      <created>1657742149253</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1657742149253</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -248,6 +256,7 @@
     <MESSAGE value="数组练习" />
     <MESSAGE value="数组" />
     <MESSAGE value="数组 优化" />
-    <option name="LAST_COMMIT_MESSAGE" value="数组 优化" />
+    <MESSAGE value="二维数组" />
+    <option name="LAST_COMMIT_MESSAGE" value="二维数组" />
   </component>
 </project>
