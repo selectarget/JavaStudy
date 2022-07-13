@@ -17,12 +17,6 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="PUSH_TAGS">
-      <GitPushTagMode>
-        <option name="argument" value="--tags" />
-        <option name="title" value="All" />
-      </GitPushTagMode>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -38,25 +32,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;,
-      &quot;module&quot;,
-      &quot;repository&quot;
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
     ]
   }
-}</component>
-  <component name="RunManager" selected="应用程序.StarLinkLogin">
-    <configuration name="StarLinkLogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RunManager" selected="应用程序.ArryDemo">
+    <configuration name="ArryDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exp.icu.ArryDemo" />
+      <module name="JavaStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.exp.icu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.exp.icu.StarLinkLogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.exp.icu.StarLinkLogin" />
       <module name="JavaStudy" />
       <extension name="coverage">
@@ -69,7 +77,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="chatRoom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="com.exp.icu.chatRoom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.exp.icu.chatRoom" />
       <module name="JavaStudy" />
       <extension name="coverage">
@@ -82,7 +90,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="guessNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="com.exp.icu.guessNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.exp.icu.guessNumber" />
       <module name="JavaStudy" />
       <extension name="coverage">
@@ -97,9 +105,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.StarLinkLogin" />
-        <item itemvalue="应用程序.chatRoom" />
-        <item itemvalue="应用程序.guessNumber" />
+        <item itemvalue="应用程序.ArryDemo" />
+        <item itemvalue="应用程序.com.exp.icu.StarLinkLogin" />
+        <item itemvalue="应用程序.com.exp.icu.chatRoom" />
+        <item itemvalue="应用程序.com.exp.icu.guessNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -114,6 +123,8 @@
       <workItem from="1657638026905" duration="2525000" />
       <workItem from="1657640607291" duration="612000" />
       <workItem from="1657642608790" duration="125000" />
+      <workItem from="1657650783727" duration="504000" />
+      <workItem from="1657738035193" duration="2202000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1657638329373</created>
@@ -164,7 +175,28 @@
       <option name="project" value="LOCAL" />
       <updated>1657640529634</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="格式化时间">
+      <created>1657650925069</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1657650925069</updated>
+    </task>
+    <task id="LOCAL-00009" summary="格式化时间">
+      <created>1657651012322</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1657651012322</updated>
+    </task>
+    <task id="LOCAL-00010" summary="数组练习，优化代码">
+      <created>1657739840191</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1657739840191</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,6 +221,12 @@
     <MESSAGE value="聊天室练习" />
     <MESSAGE value="聊天室" />
     <MESSAGE value="登陆界面练习" />
-    <option name="LAST_COMMIT_MESSAGE" value="登陆界面练习" />
+    <MESSAGE value="格式化时间" />
+    <MESSAGE value="数组练习，优化代码" />
+    <MESSAGE value="数组练习 优化代码" />
+    <MESSAGE value="数组练习" />
+    <MESSAGE value="数组" />
+    <MESSAGE value="数组 优化" />
+    <option name="LAST_COMMIT_MESSAGE" value="数组 优化" />
   </component>
 </project>
